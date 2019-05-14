@@ -1,0 +1,1 @@
+# Gra: "Papier, kamień, nożyczki"
